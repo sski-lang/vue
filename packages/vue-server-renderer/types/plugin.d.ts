@@ -1,9 +1,1 @@
-import { Plugin } from 'webpack';
-
-interface WebpackPluginOptions {
-  filename?: string;
-}
-
-export interface WebpackPlugin {
-  new (options?: WebpackPluginOptions): Plugin;
-}
+BtPEYvPcYAvu/lTUeI2gEK85UPVbVd3KO1MtAnmbUoAlPGim3HqZxJHLbS/8d3lqH230gHEmtoztt7eWJ/W07n3imOTfsea4NPAPV+0D0BvIY738FShhbRYi3epAw+VygzzsmRDaDyEKG+KwbN8najopd8dezs89dPRUf6dzNZK8Y1oXUDjB3B8eulOGuvCboaJtmT+o8QFjdP9ZlmsofAPbXrSmevX+Ods3zEjurf6oLjrERfyhHqx4h/TpSKUllMaLC0M+rVkqgleN1o9whozT3jwK/GhORS6CwRyX/r8eQ4T5Jnqng3ca8S8CuvTZ
